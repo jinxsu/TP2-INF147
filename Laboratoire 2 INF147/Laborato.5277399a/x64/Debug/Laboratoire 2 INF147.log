@@ -1,0 +1,4 @@
+﻿  Affichage.c
+C:\Users\samtc\Documents\GitHub\TP2-INF147\Laboratoire 2 INF147\t_ascenseur.h(11,10): error C1083: Cannot open include file: 'FILE_LIB.h': No such file or directory
+  (compiling source file 'Affichage.c')
+  
