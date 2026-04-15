@@ -8,8 +8,8 @@
 /***********************************************************************************/
 #if !defined (NB_ETAGES)
 
-#include "FILE_LIB.h"
-#include "t_personne.h"
+#include "File_Lib.h"
+#include "t_personnes.h"
 
 #define NB_ETAGES  6		//6 �tages (le b�timent n'a pas d'�tages au sous-sol)
 #define CAPACITE  12		//12 personnes MAX dans un ascenseur

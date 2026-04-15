@@ -24,10 +24,13 @@
     <ClInclude Include="t_even.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="t_personne.h">
+    <ClInclude Include="t_personnes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="WinConsole.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="File_Lib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -39,6 +42,24 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="WinConsole.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="t_liste_even.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="t_ascenseur.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_Unitaire.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="t_personnes.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
