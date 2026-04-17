@@ -35,32 +35,38 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Affichage.c">
+    <ClCompile Include="Affichage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="t_even.c">
+    <ClCompile Include="t_even.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WinConsole.c">
+    <ClCompile Include="WinConsole.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="t_liste_even.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="File_Lib.c">
+    <ClCompile Include="File_Lib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="t_ascenseur.c">
+    <ClCompile Include="t_ascenseur.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.c">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_Unitaire.c">
+    <ClCompile Include="test_Unitaire.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="t_personnes.c">
+    <ClCompile Include="t_personnes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="t_liste_even.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" />
   </ItemGroup>
 </Project>
