@@ -134,7 +134,6 @@
     <ClCompile Include="Affichage.cpp" />
     <ClCompile Include="File_Lib.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="test_Unitaire.cpp" />
     <ClCompile Include="t_ascenseur.cpp" />
     <ClCompile Include="t_even.cpp" />
     <ClCompile Include="t_liste_even.cpp" />

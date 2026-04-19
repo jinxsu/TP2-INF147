@@ -56,9 +56,6 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_Unitaire.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="t_personnes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

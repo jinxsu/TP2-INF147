@@ -1,13 +1,13 @@
+/*************************************************************************/
+/*	T_PERSONNES.cpp									   				     */
+/*																		 */
+/*	Description: Module qui gère les personnes dans la simulation.		 */
+/*	Conception : Zhang Rui Chen et Samuel Dero							 */
+/*************************************************************************/
 #include <stdlib.h>
 #include "t_personnes.h"
 
-/* Choisit un etage aleatoire selon le tableau de probabilites P[].
-   Algorithme impose par le cahier des charges :
-     alea  <- 0.99999 * rand() / RAND_MAX
-     etage <- 0
-     total <- P[etage]
-     Tant que (alea > total) : etage++, total += P[etage]
-     Retourner etage                                               */
+/// Choisit un étage selon la distribution de probabilité donnée
 static int choisir_etage(const double prob[], int nb_etages)
 {
     double alea = 0.99999 * rand() / RAND_MAX;
@@ -21,8 +21,7 @@ static int choisir_etage(const double prob[], int nb_etages)
     return etage;
 }
 
-/* Genere TOUS les evenements BOUTON d'arrivee des personnes et les insere
-   dans la liste chainee d'evenements. */
+/// Initialise le tableau des personnes et insère les événements BOUTON dans la liste chaînée
 t_personne* init_personnes(int taille, t_liste liste_even, int tmp_arr_max,
     const double prob_eta[], const double prob_dest[], int nb_etages)
 {

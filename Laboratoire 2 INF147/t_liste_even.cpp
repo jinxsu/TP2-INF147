@@ -1,10 +1,12 @@
+/*****************************************************************************/
+/*	T_LISTE_EVEN.cpp									   				     */
+/*																		     */
+/*	Description: Module qui implémente une liste chaînée pour les événements */
+/*	Conception : Zhang Rui Chen et Samuel Dero							     */
+/*****************************************************************************/
+
 #include <stdlib.h>
 #include "t_liste_even.h"
-
-/* ===== IMPLEMENTATIONS DIRECTEMENT DANS LE HEADER =====
-   Ceci evite tout probleme de configuration de projet Visual Studio.
-   Le mot-cle "static inline" permet d'inclure ce fichier dans plusieurs .c
-   sans erreur de symbole duplique. */
 
 t_liste creer_liste(void)
 {

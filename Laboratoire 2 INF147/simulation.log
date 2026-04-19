@@ -5,70 +5,1498 @@ DEPART : Etage 0, No. 1, Temps: 5
 DEPART : Etage 0, No. 0, Temps: 7
 ARRIVEE: Etage 1, No. 1, Temps: 7
 ARRIVEE: Etage 1, No. 0, Temps: 9
-ARRIVEE: Etage 2, No. 1, Temps: 9
 ARRIVEE: Etage 2, No. 0, Temps: 11
-ARRIVEE: Etage 3, No. 1, Temps: 11
 BOUTON : Etage 0, No. 2, Temps: 12
+PORTES : Etage 1, No. 1, Temps: 12
 ARRIVEE: Etage 3, No. 0, Temps: 13
-ARRIVEE: Etage 4, No. 1, Temps: 13
 DEPART : Etage 0, No. 2, Temps: 14
+DEPART : Etage 1, No. 1, Temps: 14
 ARRIVEE: Etage 4, No. 0, Temps: 15
-ARRIVEE: Etage 3, No. 1, Temps: 15
 ARRIVEE: Etage 1, No. 2, Temps: 16
-ARRIVEE: Etage 3, No. 0, Temps: 17
-ARRIVEE: Etage 2, No. 1, Temps: 17
-ARRIVEE: Etage 2, No. 2, Temps: 18
-ARRIVEE: Etage 2, No. 0, Temps: 19
+ARRIVEE: Etage 2, No. 1, Temps: 16
+DEPART : Etage 1, No. 1, Temps: 17
 ARRIVEE: Etage 1, No. 1, Temps: 19
-ARRIVEE: Etage 3, No. 2, Temps: 20
-ARRIVEE: Etage 1, No. 0, Temps: 21
-ARRIVEE: Etage 0, No. 1, Temps: 21
-ARRIVEE: Etage 4, No. 2, Temps: 22
-ARRIVEE: Etage 0, No. 0, Temps: 23
-ARRIVEE: Etage 1, No. 1, Temps: 23
-ARRIVEE: Etage 3, No. 2, Temps: 24
-ARRIVEE: Etage 1, No. 0, Temps: 25
-ARRIVEE: Etage 2, No. 1, Temps: 25
-ARRIVEE: Etage 2, No. 2, Temps: 26
-ARRIVEE: Etage 2, No. 0, Temps: 27
-ARRIVEE: Etage 3, No. 1, Temps: 27
+PORTES : Etage 4, No. 0, Temps: 20
+PORTES : Etage 1, No. 2, Temps: 21
+PORTES : Etage 2, No. 1, Temps: 21
+DEPART : Etage 1, No. 2, Temps: 23
+DEPART : Etage 1, No. 1, Temps: 23
+PORTES : Etage 1, No. 1, Temps: 24
+DEPART : Etage 4, No. 0, Temps: 25
+ARRIVEE: Etage 0, No. 2, Temps: 25
+ARRIVEE: Etage 0, No. 1, Temps: 25
+DEPART : Etage 1, No. 2, Temps: 26
+DEPART : Etage 1, No. 1, Temps: 26
+ARRIVEE: Etage 3, No. 0, Temps: 27
 BOUTON : Etage 3, No. 3, Temps: 28
-ARRIVEE: Etage 1, No. 2, Temps: 28
-ARRIVEE: Etage 3, No. 0, Temps: 29
-ARRIVEE: Etage 4, No. 1, Temps: 29
-ARRIVEE: Etage 0, No. 2, Temps: 30
-ARRIVEE: Etage 4, No. 0, Temps: 31
-ARRIVEE: Etage 3, No. 1, Temps: 31
-ARRIVEE: Etage 1, No. 2, Temps: 32
-ARRIVEE: Etage 3, No. 0, Temps: 33
-ARRIVEE: Etage 2, No. 1, Temps: 33
-ARRIVEE: Etage 2, No. 2, Temps: 34
-ARRIVEE: Etage 2, No. 0, Temps: 35
-ARRIVEE: Etage 1, No. 1, Temps: 35
-ARRIVEE: Etage 3, No. 2, Temps: 36
-ARRIVEE: Etage 1, No. 0, Temps: 37
+ARRIVEE: Etage 0, No. 2, Temps: 28
+ARRIVEE: Etage 0, No. 1, Temps: 28
+DEPART : Etage 1, No. 1, Temps: 29
+ARRIVEE: Etage 2, No. 0, Temps: 29
+PORTES : Etage 0, No. 2, Temps: 30
+PORTES : Etage 0, No. 1, Temps: 30
+DEPART : Etage 0, No. 1, Temps: 30
+ARRIVEE: Etage 0, No. 1, Temps: 31
+ARRIVEE: Etage 1, No. 0, Temps: 31
+DEPART : Etage 0, No. 1, Temps: 32
+ARRIVEE: Etage 1, No. 1, Temps: 32
+PORTES : Etage 0, No. 2, Temps: 33
+PORTES : Etage 0, No. 1, Temps: 33
+ARRIVEE: Etage 0, No. 1, Temps: 34
+DEPART : Etage 0, No. 2, Temps: 35
+DEPART : Etage 0, No. 1, Temps: 35
+DEPART : Etage 1, No. 1, Temps: 35
+PORTES : Etage 0, No. 1, Temps: 36
+PORTES : Etage 1, No. 0, Temps: 36
+PORTES : Etage 1, No. 1, Temps: 37
+ARRIVEE: Etage 1, No. 2, Temps: 37
 ARRIVEE: Etage 0, No. 1, Temps: 37
-ARRIVEE: Etage 4, No. 2, Temps: 38
-ARRIVEE: Etage 0, No. 0, Temps: 39
-ARRIVEE: Etage 1, No. 1, Temps: 39
-ARRIVEE: Etage 3, No. 2, Temps: 40
-ARRIVEE: Etage 1, No. 0, Temps: 41
-ARRIVEE: Etage 2, No. 1, Temps: 41
-ARRIVEE: Etage 2, No. 2, Temps: 42
-ARRIVEE: Etage 2, No. 0, Temps: 43
-ARRIVEE: Etage 3, No. 1, Temps: 43
-ARRIVEE: Etage 1, No. 2, Temps: 44
+ARRIVEE: Etage 0, No. 1, Temps: 37
+DEPART : Etage 0, No. 2, Temps: 38
+DEPART : Etage 1, No. 1, Temps: 38
+DEPART : Etage 0, No. 1, Temps: 38
+DEPART : Etage 1, No. 0, Temps: 38
+PORTES : Etage 0, No. 1, Temps: 39
+DEPART : Etage 0, No. 1, Temps: 39
+ARRIVEE: Etage 2, No. 2, Temps: 39
+ARRIVEE: Etage 2, No. 2, Temps: 40
+ARRIVEE: Etage 0, No. 1, Temps: 40
+ARRIVEE: Etage 0, No. 1, Temps: 40
+ARRIVEE: Etage 2, No. 0, Temps: 40
+DEPART : Etage 0, No. 1, Temps: 41
+DEPART : Etage 1, No. 0, Temps: 41
+DEPART : Etage 0, No. 1, Temps: 41
+ARRIVEE: Etage 1, No. 1, Temps: 41
+ARRIVEE: Etage 3, No. 2, Temps: 41
+DEPART : Etage 0, No. 1, Temps: 42
+PORTES : Etage 0, No. 1, Temps: 42
+PORTES : Etage 0, No. 1, Temps: 42
+ARRIVEE: Etage 3, No. 2, Temps: 42
+ARRIVEE: Etage 0, No. 1, Temps: 43
+ARRIVEE: Etage 1, No. 0, Temps: 43
+ARRIVEE: Etage 0, No. 1, Temps: 43
+ARRIVEE: Etage 4, No. 2, Temps: 43
+DEPART : Etage 0, No. 1, Temps: 44
+ARRIVEE: Etage 0, No. 1, Temps: 44
+DEPART : Etage 1, No. 1, Temps: 44
+DEPART : Etage 1, No. 1, Temps: 44
+ARRIVEE: Etage 4, No. 2, Temps: 44
 BOUTON : Etage 3, No. 4, Temps: 45
-ARRIVEE: Etage 3, No. 0, Temps: 45
-ARRIVEE: Etage 4, No. 1, Temps: 45
-ARRIVEE: Etage 0, No. 2, Temps: 46
-ARRIVEE: Etage 4, No. 0, Temps: 47
-ARRIVEE: Etage 3, No. 1, Temps: 47
-ARRIVEE: Etage 1, No. 2, Temps: 48
-ARRIVEE: Etage 3, No. 0, Temps: 49
-ARRIVEE: Etage 2, No. 1, Temps: 49
-ARRIVEE: Etage 2, No. 2, Temps: 50
+PORTES : Etage 0, No. 1, Temps: 45
+PORTES : Etage 0, No. 1, Temps: 45
+PORTES : Etage 2, No. 0, Temps: 45
+ARRIVEE: Etage 5, No. 2, Temps: 45
+PORTES : Etage 1, No. 1, Temps: 46
+ARRIVEE: Etage 0, No. 1, Temps: 46
+ARRIVEE: Etage 0, No. 1, Temps: 46
+ARRIVEE: Etage 0, No. 1, Temps: 46
+ARRIVEE: Etage 5, No. 2, Temps: 46
+DEPART : Etage 1, No. 1, Temps: 47
+DEPART : Etage 1, No. 1, Temps: 47
+DEPART : Etage 0, No. 1, Temps: 47
+DEPART : Etage 0, No. 1, Temps: 47
+DEPART : Etage 1, No. 0, Temps: 47
+PORTES : Etage 0, No. 1, Temps: 48
+PORTES : Etage 1, No. 0, Temps: 48
+PORTES : Etage 0, No. 1, Temps: 48
+DEPART : Etage 0, No. 1, Temps: 48
+PORTES : Etage 0, No. 1, Temps: 49
+ARRIVEE: Etage 0, No. 1, Temps: 49
+ARRIVEE: Etage 0, No. 1, Temps: 49
+ARRIVEE: Etage 0, No. 1, Temps: 49
+ARRIVEE: Etage 0, No. 1, Temps: 49
+ARRIVEE: Etage 2, No. 0, Temps: 49
+DEPART : Etage 0, No. 1, Temps: 50
+DEPART : Etage 0, No. 1, Temps: 50
+DEPART : Etage 1, No. 0, Temps: 50
+PORTES : Etage 5, No. 2, Temps: 50
+DEPART : Etage 0, No. 1, Temps: 50
+DEPART : Etage 0, No. 1, Temps: 50
+ARRIVEE: Etage 1, No. 1, Temps: 50
 BOUTON : Etage 0, No. 5, Temps: 51
-ARRIVEE: Etage 2, No. 0, Temps: 51
-ARRIVEE: Etage 1, No. 1, Temps: 51
-ARRIVEE: Etage 3, No. 2, Temps: 52
+DEPART : Etage 0, No. 1, Temps: 51
+PORTES : Etage 0, No. 1, Temps: 51
+PORTES : Etage 0, No. 1, Temps: 51
+PORTES : Etage 0, No. 1, Temps: 51
+PORTES : Etage 5, No. 2, Temps: 51
+ARRIVEE: Etage 0, No. 1, Temps: 52
+ARRIVEE: Etage 0, No. 1, Temps: 52
+ARRIVEE: Etage 1, No. 0, Temps: 52
+DEPART : Etage 2, No. 0, Temps: 52
+ARRIVEE: Etage 0, No. 1, Temps: 52
+ARRIVEE: Etage 0, No. 1, Temps: 52
+DEPART : Etage 0, No. 1, Temps: 53
+DEPART : Etage 1, No. 0, Temps: 53
+DEPART : Etage 0, No. 1, Temps: 53
+DEPART : Etage 1, No. 1, Temps: 53
+DEPART : Etage 5, No. 2, Temps: 53
+ARRIVEE: Etage 2, No. 1, Temps: 53
+DEPART : Etage 5, No. 2, Temps: 53
+DEPART : Etage 0, No. 1, Temps: 54
+PORTES : Etage 0, No. 1, Temps: 54
+PORTES : Etage 0, No. 1, Temps: 54
+PORTES : Etage 0, No. 1, Temps: 54
+PORTES : Etage 0, No. 1, Temps: 54
+PORTES : Etage 2, No. 0, Temps: 54
+ARRIVEE: Etage 0, No. 0, Temps: 54
+DEPART : Etage 5, No. 2, Temps: 55
+PORTES : Etage 1, No. 1, Temps: 55
+ARRIVEE: Etage 0, No. 1, Temps: 55
+ARRIVEE: Etage 0, No. 0, Temps: 55
+ARRIVEE: Etage 0, No. 1, Temps: 55
+ARRIVEE: Etage 0, No. 1, Temps: 55
+ARRIVEE: Etage 4, No. 2, Temps: 55
+ARRIVEE: Etage 4, No. 2, Temps: 55
+DEPART : Etage 1, No. 1, Temps: 56
+DEPART : Etage 1, No. 1, Temps: 56
+DEPART : Etage 1, No. 1, Temps: 56
+DEPART : Etage 5, No. 2, Temps: 56
+ARRIVEE: Etage 1, No. 1, Temps: 56
+DEPART : Etage 2, No. 1, Temps: 56
+DEPART : Etage 2, No. 1, Temps: 56
+DEPART : Etage 2, No. 1, Temps: 56
+DEPART : Etage 2, No. 1, Temps: 56
+DEPART : Etage 1, No. 0, Temps: 56
+PORTES : Etage 0, No. 1, Temps: 57
+PORTES : Etage 0, No. 1, Temps: 57
+PORTES : Etage 1, No. 0, Temps: 57
+PORTES : Etage 0, No. 1, Temps: 57
+PORTES : Etage 0, No. 1, Temps: 57
+ARRIVEE: Etage 4, No. 2, Temps: 57
+DEPART : Etage 2, No. 1, Temps: 57
+ARRIVEE: Etage 3, No. 2, Temps: 57
+ARRIVEE: Etage 3, No. 2, Temps: 57
+BOUTON : Etage 0, No. 6, Temps: 58
+PORTES : Etage 2, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 3, No. 2, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 1, Temps: 58
+ARRIVEE: Etage 0, No. 0, Temps: 58
+DEPART : Etage 2, No. 1, Temps: 59
+DEPART : Etage 2, No. 1, Temps: 59
+DEPART : Etage 2, No. 1, Temps: 59
+DEPART : Etage 2, No. 1, Temps: 59
+DEPART : Etage 1, No. 0, Temps: 59
+PORTES : Etage 0, No. 0, Temps: 59
+DEPART : Etage 1, No. 1, Temps: 59
+DEPART : Etage 1, No. 1, Temps: 59
+DEPART : Etage 1, No. 1, Temps: 59
+DEPART : Etage 1, No. 1, Temps: 59
+ARRIVEE: Etage 3, No. 2, Temps: 59
+ARRIVEE: Etage 2, No. 1, Temps: 59
+DEPART : Etage 2, No. 1, Temps: 60
+PORTES : Etage 0, No. 1, Temps: 60
+PORTES : Etage 0, No. 0, Temps: 60
+PORTES : Etage 0, No. 1, Temps: 60
+PORTES : Etage 0, No. 1, Temps: 60
+ARRIVEE: Etage 1, No. 0, Temps: 60
+PORTES : Etage 1, No. 1, Temps: 61
+ARRIVEE: Etage 0, No. 1, Temps: 61
+ARRIVEE: Etage 0, No. 1, Temps: 61
+ARRIVEE: Etage 0, No. 1, Temps: 61
+ARRIVEE: Etage 0, No. 1, Temps: 61
+ARRIVEE: Etage 1, No. 0, Temps: 61
+DEPART : Etage 0, No. 1, Temps: 61
+ARRIVEE: Etage 1, No. 1, Temps: 61
+ARRIVEE: Etage 1, No. 1, Temps: 61
+ARRIVEE: Etage 1, No. 1, Temps: 61
+ARRIVEE: Etage 1, No. 1, Temps: 61
+DEPART : Etage 1, No. 1, Temps: 62
+DEPART : Etage 1, No. 1, Temps: 62
+DEPART : Etage 0, No. 0, Temps: 62
+DEPART : Etage 1, No. 1, Temps: 62
+DEPART : Etage 1, No. 1, Temps: 62
+PORTES : Etage 3, No. 2, Temps: 62
+PORTES : Etage 3, No. 2, Temps: 62
+ARRIVEE: Etage 1, No. 1, Temps: 62
+DEPART : Etage 2, No. 1, Temps: 62
+DEPART : Etage 2, No. 1, Temps: 62
+DEPART : Etage 2, No. 1, Temps: 62
+ARRIVEE: Etage 2, No. 0, Temps: 62
+DEPART : Etage 1, No. 1, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+PORTES : Etage 3, No. 2, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+PORTES : Etage 0, No. 1, Temps: 63
+DEPART : Etage 2, No. 1, Temps: 63
+ARRIVEE: Etage 2, No. 0, Temps: 63
+ARRIVEE: Etage 0, No. 1, Temps: 63
+DEPART : Etage 0, No. 0, Temps: 64
+PORTES : Etage 3, No. 2, Temps: 64
+PORTES : Etage 2, No. 1, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+ARRIVEE: Etage 2, No. 0, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+ARRIVEE: Etage 0, No. 1, Temps: 64
+DEPART : Etage 2, No. 1, Temps: 65
+DEPART : Etage 0, No. 0, Temps: 65
+DEPART : Etage 2, No. 1, Temps: 65
+DEPART : Etage 2, No. 1, Temps: 65
+ARRIVEE: Etage 0, No. 1, Temps: 65
+ARRIVEE: Etage 0, No. 1, Temps: 65
+DEPART : Etage 2, No. 1, Temps: 66
+PORTES : Etage 0, No. 1, Temps: 66
+PORTES : Etage 0, No. 1, Temps: 66
+PORTES : Etage 0, No. 1, Temps: 66
+PORTES : Etage 0, No. 1, Temps: 66
+PORTES : Etage 1, No. 1, Temps: 66
+PORTES : Etage 1, No. 1, Temps: 66
+PORTES : Etage 1, No. 1, Temps: 66
+PORTES : Etage 1, No. 1, Temps: 66
+ARRIVEE: Etage 1, No. 0, Temps: 66
+DEPART : Etage 3, No. 2, Temps: 67
+DEPART : Etage 3, No. 2, Temps: 67
+PORTES : Etage 1, No. 1, Temps: 67
+PORTES : Etage 2, No. 0, Temps: 67
+ARRIVEE: Etage 0, No. 1, Temps: 67
+ARRIVEE: Etage 1, No. 0, Temps: 67
+ARRIVEE: Etage 0, No. 1, Temps: 67
+ARRIVEE: Etage 0, No. 1, Temps: 67
+DEPART : Etage 1, No. 1, Temps: 68
+DEPART : Etage 1, No. 1, Temps: 68
+DEPART : Etage 1, No. 1, Temps: 68
+DEPART : Etage 3, No. 2, Temps: 68
+DEPART : Etage 1, No. 1, Temps: 68
+DEPART : Etage 1, No. 1, Temps: 68
+DEPART : Etage 1, No. 1, Temps: 68
+DEPART : Etage 1, No. 1, Temps: 68
+PORTES : Etage 2, No. 0, Temps: 68
+PORTES : Etage 0, No. 1, Temps: 68
+ARRIVEE: Etage 0, No. 1, Temps: 68
+ARRIVEE: Etage 2, No. 0, Temps: 68
+DEPART : Etage 3, No. 2, Temps: 69
+DEPART : Etage 0, No. 1, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+PORTES : Etage 2, No. 0, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 69
+ARRIVEE: Etage 2, No. 2, Temps: 69
+ARRIVEE: Etage 2, No. 2, Temps: 69
+ARRIVEE: Etage 2, No. 0, Temps: 69
+PORTES : Etage 0, No. 1, Temps: 70
+PORTES : Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 2, No. 2, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+ARRIVEE: Etage 0, No. 1, Temps: 70
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 71
+ARRIVEE: Etage 2, No. 2, Temps: 71
+ARRIVEE: Etage 0, No. 1, Temps: 71
+ARRIVEE: Etage 1, No. 2, Temps: 71
+ARRIVEE: Etage 1, No. 2, Temps: 71
+DEPART : Etage 0, No. 1, Temps: 72
+DEPART : Etage 1, No. 0, Temps: 72
+PORTES : Etage 0, No. 1, Temps: 72
+PORTES : Etage 0, No. 1, Temps: 72
+PORTES : Etage 0, No. 1, Temps: 72
+ARRIVEE: Etage 1, No. 2, Temps: 72
+DEPART : Etage 1, No. 0, Temps: 73
+DEPART : Etage 0, No. 1, Temps: 73
+PORTES : Etage 0, No. 1, Temps: 73
+PORTES : Etage 2, No. 0, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 0, No. 1, Temps: 73
+ARRIVEE: Etage 1, No. 2, Temps: 73
+DEPART : Etage 0, No. 1, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 74
+DEPART : Etage 2, No. 0, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 74
+PORTES : Etage 2, No. 0, Temps: 74
+ARRIVEE: Etage 0, No. 1, Temps: 74
+ARRIVEE: Etage 1, No. 0, Temps: 74
+DEPART : Etage 0, No. 1, Temps: 75
+DEPART : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 75
+ARRIVEE: Etage 1, No. 0, Temps: 75
+ARRIVEE: Etage 0, No. 1, Temps: 75
+PORTES : Etage 0, No. 1, Temps: 76
+PORTES : Etage 1, No. 2, Temps: 76
+PORTES : Etage 1, No. 2, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+ARRIVEE: Etage 1, No. 0, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+ARRIVEE: Etage 0, No. 1, Temps: 76
+BOUTON : Etage 0, No. 7, Temps: 77
+BOUTON : Etage 0, No. 8, Temps: 77
+DEPART : Etage 0, No. 1, Temps: 77
+DEPART : Etage 0, No. 1, Temps: 77
+DEPART : Etage 0, No. 1, Temps: 77
+PORTES : Etage 1, No. 2, Temps: 77
+ARRIVEE: Etage 0, No. 1, Temps: 77
+ARRIVEE: Etage 0, No. 1, Temps: 77
+DEPART : Etage 0, No. 1, Temps: 78
+DEPART : Etage 2, No. 0, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 0, No. 1, Temps: 78
+PORTES : Etage 1, No. 2, Temps: 78
+DEPART : Etage 2, No. 0, Temps: 79
+PORTES : Etage 0, No. 1, Temps: 79
+PORTES : Etage 1, No. 0, Temps: 79
+DEPART : Etage 1, No. 0, Temps: 79
+PORTES : Etage 0, No. 1, Temps: 79
+ARRIVEE: Etage 1, No. 1, Temps: 79
+ARRIVEE: Etage 1, No. 1, Temps: 79
+ARRIVEE: Etage 1, No. 1, Temps: 79
+DEPART : Etage 0, No. 1, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 80
+PORTES : Etage 1, No. 0, Temps: 80
+PORTES : Etage 0, No. 1, Temps: 80
+ARRIVEE: Etage 0, No. 1, Temps: 80
+ARRIVEE: Etage 0, No. 0, Temps: 80
+DEPART : Etage 0, No. 1, Temps: 81
+DEPART : Etage 1, No. 2, Temps: 81
+DEPART : Etage 1, No. 2, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+PORTES : Etage 1, No. 0, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+PORTES : Etage 0, No. 1, Temps: 81
+ARRIVEE: Etage 0, No. 0, Temps: 81
+ARRIVEE: Etage 0, No. 0, Temps: 81
+ARRIVEE: Etage 2, No. 1, Temps: 81
+ARRIVEE: Etage 2, No. 1, Temps: 81
+ARRIVEE: Etage 2, No. 1, Temps: 81
+DEPART : Etage 1, No. 2, Temps: 82
+PORTES : Etage 0, No. 1, Temps: 82
+PORTES : Etage 0, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 2, No. 1, Temps: 82
+ARRIVEE: Etage 1, No. 1, Temps: 82
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 83
+DEPART : Etage 1, No. 2, Temps: 83
+ARRIVEE: Etage 1, No. 1, Temps: 83
+ARRIVEE: Etage 0, No. 2, Temps: 83
+ARRIVEE: Etage 0, No. 2, Temps: 83
+DEPART : Etage 0, No. 1, Temps: 84
+DEPART : Etage 1, No. 0, Temps: 84
+DEPART : Etage 0, No. 1, Temps: 84
+ARRIVEE: Etage 0, No. 2, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 3, No. 1, Temps: 84
+ARRIVEE: Etage 2, No. 1, Temps: 84
+DEPART : Etage 1, No. 0, Temps: 85
+DEPART : Etage 1, No. 1, Temps: 85
+PORTES : Etage 0, No. 0, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+ARRIVEE: Etage 0, No. 2, Temps: 85
+ARRIVEE: Etage 2, No. 1, Temps: 85
+DEPART : Etage 0, No. 1, Temps: 86
+DEPART : Etage 0, No. 1, Temps: 86
+DEPART : Etage 0, No. 0, Temps: 86
+DEPART : Etage 0, No. 1, Temps: 86
+DEPART : Etage 0, No. 1, Temps: 86
+DEPART : Etage 0, No. 1, Temps: 86
+DEPART : Etage 0, No. 1, Temps: 86
+DEPART : Etage 0, No. 1, Temps: 86
+PORTES : Etage 0, No. 0, Temps: 86
+PORTES : Etage 0, No. 0, Temps: 86
+PORTES : Etage 2, No. 1, Temps: 86
+PORTES : Etage 2, No. 1, Temps: 86
+PORTES : Etage 2, No. 1, Temps: 86
+ARRIVEE: Etage 2, No. 1, Temps: 86
+ARRIVEE: Etage 0, No. 0, Temps: 86
+ARRIVEE: Etage 2, No. 1, Temps: 86
+ARRIVEE: Etage 3, No. 1, Temps: 86
+BOUTON : Etage 1, No. 9, Temps: 87
+DEPART : Etage 2, No. 1, Temps: 87
+DEPART : Etage 2, No. 1, Temps: 87
+ARRIVEE: Etage 0, No. 0, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+ARRIVEE: Etage 3, No. 1, Temps: 87
+PORTES : Etage 0, No. 2, Temps: 88
+PORTES : Etage 0, No. 2, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 0, No. 0, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+ARRIVEE: Etage 3, No. 1, Temps: 88
+PORTES : Etage 0, No. 2, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+PORTES : Etage 3, No. 1, Temps: 89
+DEPART : Etage 0, No. 0, Temps: 89
+ARRIVEE: Etage 2, No. 1, Temps: 89
+ARRIVEE: Etage 2, No. 1, Temps: 89
+ARRIVEE: Etage 1, No. 0, Temps: 89
+DEPART : Etage 0, No. 0, Temps: 90
+PORTES : Etage 0, No. 2, Temps: 90
+DEPART : Etage 0, No. 2, Temps: 90
+DEPART : Etage 0, No. 2, Temps: 90
+ARRIVEE: Etage 1, No. 0, Temps: 90
+DEPART : Etage 0, No. 0, Temps: 91
+DEPART : Etage 0, No. 0, Temps: 91
+DEPART : Etage 2, No. 1, Temps: 91
+DEPART : Etage 2, No. 1, Temps: 91
+DEPART : Etage 2, No. 1, Temps: 91
+PORTES : Etage 0, No. 0, Temps: 91
+PORTES : Etage 3, No. 1, Temps: 91
+DEPART : Etage 0, No. 2, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+DEPART : Etage 3, No. 1, Temps: 91
+ARRIVEE: Etage 1, No. 0, Temps: 91
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+PORTES : Etage 3, No. 1, Temps: 92
+ARRIVEE: Etage 0, No. 0, Temps: 92
+DEPART : Etage 0, No. 2, Temps: 92
+ARRIVEE: Etage 1, No. 2, Temps: 92
+ARRIVEE: Etage 1, No. 2, Temps: 92
+DEPART : Etage 0, No. 2, Temps: 93
+DEPART : Etage 0, No. 2, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+PORTES : Etage 3, No. 1, Temps: 93
+ARRIVEE: Etage 0, No. 0, Temps: 93
+ARRIVEE: Etage 0, No. 0, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 2, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 1, No. 1, Temps: 93
+ARRIVEE: Etage 2, No. 0, Temps: 93
+DEPART : Etage 0, No. 2, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+DEPART : Etage 3, No. 1, Temps: 94
+PORTES : Etage 2, No. 1, Temps: 94
+PORTES : Etage 2, No. 1, Temps: 94
+PORTES : Etage 1, No. 0, Temps: 94
+ARRIVEE: Etage 1, No. 0, Temps: 94
+ARRIVEE: Etage 1, No. 2, Temps: 94
+DEPART : Etage 0, No. 2, Temps: 95
+PORTES : Etage 1, No. 0, Temps: 95
+ARRIVEE: Etage 0, No. 2, Temps: 95
+ARRIVEE: Etage 0, No. 2, Temps: 95
+ARRIVEE: Etage 1, No. 0, Temps: 95
+ARRIVEE: Etage 1, No. 0, Temps: 95
+DEPART : Etage 1, No. 0, Temps: 96
+DEPART : Etage 2, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 2, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+ARRIVEE: Etage 0, No. 1, Temps: 96
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 97
+PORTES : Etage 1, No. 2, Temps: 97
+PORTES : Etage 1, No. 2, Temps: 97
+ARRIVEE: Etage 0, No. 2, Temps: 97
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+DEPART : Etage 2, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 2, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 1, No. 1, Temps: 98
+PORTES : Etage 2, No. 0, Temps: 98
+ARRIVEE: Etage 0, No. 0, Temps: 98
+ARRIVEE: Etage 0, No. 1, Temps: 98
+BOUTON : Etage 0, No. 10, Temps: 99
+DEPART : Etage 1, No. 1, Temps: 99
+DEPART : Etage 1, No. 1, Temps: 99
+DEPART : Etage 2, No. 0, Temps: 99
+PORTES : Etage 1, No. 0, Temps: 99
+PORTES : Etage 1, No. 2, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+ARRIVEE: Etage 0, No. 1, Temps: 99
+DEPART : Etage 1, No. 0, Temps: 100
+PORTES : Etage 0, No. 2, Temps: 100
+PORTES : Etage 0, No. 2, Temps: 100
+PORTES : Etage 1, No. 0, Temps: 100
+PORTES : Etage 1, No. 0, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+ARRIVEE: Etage 0, No. 1, Temps: 100
+PORTES : Etage 0, No. 2, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 1, Temps: 101
+PORTES : Etage 0, No. 0, Temps: 101
+ARRIVEE: Etage 0, No. 1, Temps: 101
+ARRIVEE: Etage 0, No. 1, Temps: 101
+ARRIVEE: Etage 1, No. 0, Temps: 101
+DEPART : Etage 0, No. 2, Temps: 102
+DEPART : Etage 0, No. 2, Temps: 102
+PORTES : Etage 0, No. 2, Temps: 102
+ARRIVEE: Etage 1, No. 0, Temps: 102
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 2, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 0, No. 1, Temps: 103
+DEPART : Etage 1, No. 0, Temps: 103
+PORTES : Etage 0, No. 0, Temps: 103
+PORTES : Etage 0, No. 1, Temps: 103
+ARRIVEE: Etage 2, No. 0, Temps: 103
+DEPART : Etage 0, No. 0, Temps: 104
+DEPART : Etage 0, No. 2, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+PORTES : Etage 0, No. 1, Temps: 104
+ARRIVEE: Etage 0, No. 2, Temps: 104
+ARRIVEE: Etage 0, No. 2, Temps: 104
+ARRIVEE: Etage 2, No. 0, Temps: 104
+DEPART : Etage 0, No. 2, Temps: 105
+DEPART : Etage 0, No. 2, Temps: 105
+DEPART : Etage 0, No. 0, Temps: 105
+DEPART : Etage 0, No. 0, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+PORTES : Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 2, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 0, No. 1, Temps: 105
+ARRIVEE: Etage 2, No. 0, Temps: 105
+ARRIVEE: Etage 3, No. 0, Temps: 105
+DEPART : Etage 0, No. 2, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 1, Temps: 106
+DEPART : Etage 0, No. 0, Temps: 106
+PORTES : Etage 0, No. 1, Temps: 106
+PORTES : Etage 0, No. 1, Temps: 106
+ARRIVEE: Etage 3, No. 0, Temps: 106
+ARRIVEE: Etage 0, No. 2, Temps: 106
+ARRIVEE: Etage 3, No. 0, Temps: 106
+DEPART : Etage 0, No. 2, Temps: 107
+ARRIVEE: Etage 0, No. 2, Temps: 107
+ARRIVEE: Etage 0, No. 2, Temps: 107
+ARRIVEE: Etage 3, No. 0, Temps: 107
+ARRIVEE: Etage 3, No. 0, Temps: 107
+ARRIVEE: Etage 3, No. 0, Temps: 107
+ARRIVEE: Etage 4, No. 0, Temps: 107
+BOUTON : Etage 0, No. 11, Temps: 108
+DEPART : Etage 1, No. 0, Temps: 108
+DEPART : Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 2, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 0, No. 1, Temps: 108
+ARRIVEE: Etage 4, No. 0, Temps: 108
+ARRIVEE: Etage 4, No. 0, Temps: 108
+ARRIVEE: Etage 4, No. 0, Temps: 108
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 109
+PORTES : Etage 0, No. 2, Temps: 109
+PORTES : Etage 0, No. 2, Temps: 109
+ARRIVEE: Etage 0, No. 2, Temps: 109
+ARRIVEE: Etage 4, No. 0, Temps: 109
+ARRIVEE: Etage 4, No. 0, Temps: 109
+ARRIVEE: Etage 4, No. 0, Temps: 109
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 2, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+PORTES : Etage 0, No. 1, Temps: 110
+ARRIVEE: Etage 3, No. 0, Temps: 110
+ARRIVEE: Etage 1, No. 1, Temps: 110
+DEPART : Etage 0, No. 1, Temps: 111
+DEPART : Etage 0, No. 1, Temps: 111
+PORTES : Etage 0, No. 2, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 0, No. 1, Temps: 111
+ARRIVEE: Etage 1, No. 2, Temps: 111
+PORTES : Etage 0, No. 2, Temps: 112
+PORTES : Etage 0, No. 2, Temps: 112
+PORTES : Etage 4, No. 0, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 0, No. 1, Temps: 112
+ARRIVEE: Etage 4, No. 0, Temps: 112
+PORTES : Etage 0, No. 2, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 0, No. 1, Temps: 113
+PORTES : Etage 4, No. 0, Temps: 113
+PORTES : Etage 4, No. 0, Temps: 113
+PORTES : Etage 4, No. 0, Temps: 113
+ARRIVEE: Etage 0, No. 1, Temps: 113
+ARRIVEE: Etage 0, No. 1, Temps: 113
+ARRIVEE: Etage 2, No. 2, Temps: 113
+DEPART : Etage 0, No. 2, Temps: 114
+DEPART : Etage 0, No. 2, Temps: 114
+PORTES : Etage 4, No. 0, Temps: 114
+PORTES : Etage 4, No. 0, Temps: 114
+PORTES : Etage 4, No. 0, Temps: 114
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 2, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+DEPART : Etage 0, No. 1, Temps: 115
+PORTES : Etage 1, No. 1, Temps: 115
+DEPART : Etage 0, No. 2, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+PORTES : Etage 0, No. 1, Temps: 116
+ARRIVEE: Etage 1, No. 2, Temps: 116
+ARRIVEE: Etage 1, No. 2, Temps: 116
+DEPART : Etage 1, No. 2, Temps: 117
+DEPART : Etage 1, No. 2, Temps: 117
+DEPART : Etage 3, No. 0, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 0, No. 1, Temps: 117
+PORTES : Etage 4, No. 0, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 1, No. 2, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+ARRIVEE: Etage 0, No. 1, Temps: 117
+DEPART : Etage 1, No. 2, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 0, No. 1, Temps: 118
+DEPART : Etage 4, No. 0, Temps: 118
+DEPART : Etage 4, No. 0, Temps: 118
+DEPART : Etage 4, No. 0, Temps: 118
+PORTES : Etage 0, No. 1, Temps: 118
+PORTES : Etage 0, No. 1, Temps: 118
+PORTES : Etage 2, No. 2, Temps: 118
+ARRIVEE: Etage 1, No. 2, Temps: 118
+ARRIVEE: Etage 2, No. 2, Temps: 118
+ARRIVEE: Etage 2, No. 2, Temps: 118
+DEPART : Etage 4, No. 0, Temps: 119
+DEPART : Etage 4, No. 0, Temps: 119
+DEPART : Etage 4, No. 0, Temps: 119
+ARRIVEE: Etage 2, No. 2, Temps: 119
+ARRIVEE: Etage 2, No. 2, Temps: 119
+ARRIVEE: Etage 3, No. 0, Temps: 119
+ARRIVEE: Etage 2, No. 2, Temps: 119
+BOUTON : Etage 3, No. 12, Temps: 120
+DEPART : Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 2, No. 2, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 0, No. 1, Temps: 120
+ARRIVEE: Etage 3, No. 0, Temps: 120
+ARRIVEE: Etage 3, No. 0, Temps: 120
+ARRIVEE: Etage 3, No. 0, Temps: 120
+ARRIVEE: Etage 2, No. 2, Temps: 120
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 121
+ARRIVEE: Etage 3, No. 0, Temps: 121
+ARRIVEE: Etage 3, No. 0, Temps: 121
+ARRIVEE: Etage 3, No. 0, Temps: 121
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 122
+DEPART : Etage 4, No. 0, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 0, No. 1, Temps: 122
+PORTES : Etage 3, No. 0, Temps: 122
+ARRIVEE: Etage 0, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+ARRIVEE: Etage 1, No. 1, Temps: 122
+DEPART : Etage 0, No. 1, Temps: 123
+DEPART : Etage 0, No. 1, Temps: 123
+DEPART : Etage 1, No. 2, Temps: 123
+PORTES : Etage 2, No. 2, Temps: 123
+PORTES : Etage 2, No. 2, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+ARRIVEE: Etage 1, No. 1, Temps: 123
+PORTES : Etage 2, No. 2, Temps: 124
+PORTES : Etage 2, No. 2, Temps: 124
+PORTES : Etage 3, No. 0, Temps: 124
+PORTES : Etage 2, No. 2, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 1, No. 1, Temps: 124
+ARRIVEE: Etage 2, No. 0, Temps: 124
+DEPART : Etage 2, No. 2, Temps: 124
+PORTES : Etage 2, No. 2, Temps: 125
+PORTES : Etage 3, No. 0, Temps: 125
+PORTES : Etage 3, No. 0, Temps: 125
+PORTES : Etage 3, No. 0, Temps: 125
+PORTES : Etage 2, No. 2, Temps: 125
+ARRIVEE: Etage 0, No. 1, Temps: 125
+ARRIVEE: Etage 0, No. 1, Temps: 125
+ARRIVEE: Etage 3, No. 2, Temps: 125
+PORTES : Etage 3, No. 0, Temps: 126
+PORTES : Etage 3, No. 0, Temps: 126
+PORTES : Etage 3, No. 0, Temps: 126
+ARRIVEE: Etage 3, No. 0, Temps: 126
+ARRIVEE: Etage 3, No. 2, Temps: 126
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 0, No. 1, Temps: 127
+DEPART : Etage 3, No. 0, Temps: 127
+PORTES : Etage 0, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+PORTES : Etage 1, No. 1, Temps: 127
+DEPART : Etage 2, No. 2, Temps: 128
+DEPART : Etage 2, No. 2, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+PORTES : Etage 1, No. 1, Temps: 128
+ARRIVEE: Etage 4, No. 0, Temps: 128
+DEPART : Etage 2, No. 2, Temps: 129
+DEPART : Etage 2, No. 2, Temps: 129
+DEPART : Etage 3, No. 0, Temps: 129
+DEPART : Etage 2, No. 2, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+PORTES : Etage 1, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 0, No. 1, Temps: 129
+ARRIVEE: Etage 4, No. 0, Temps: 129
+BOUTON : Etage 0, No. 13, Temps: 130
+DEPART : Etage 2, No. 2, Temps: 130
+DEPART : Etage 2, No. 0, Temps: 130
+DEPART : Etage 2, No. 0, Temps: 130
+DEPART : Etage 2, No. 0, Temps: 130
+DEPART : Etage 2, No. 2, Temps: 130
+PORTES : Etage 0, No. 1, Temps: 130
+PORTES : Etage 0, No. 1, Temps: 130
+PORTES : Etage 3, No. 2, Temps: 130
+ARRIVEE: Etage 2, No. 2, Temps: 130
+ARRIVEE: Etage 2, No. 2, Temps: 130
+DEPART : Etage 2, No. 0, Temps: 131
+DEPART : Etage 2, No. 0, Temps: 131
+DEPART : Etage 2, No. 0, Temps: 131
+PORTES : Etage 3, No. 2, Temps: 131
+ARRIVEE: Etage 2, No. 2, Temps: 131
+ARRIVEE: Etage 2, No. 2, Temps: 131
+ARRIVEE: Etage 3, No. 0, Temps: 131
+ARRIVEE: Etage 2, No. 2, Temps: 131
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 132
+PORTES : Etage 0, No. 1, Temps: 132
+ARRIVEE: Etage 2, No. 2, Temps: 132
+ARRIVEE: Etage 3, No. 0, Temps: 132
+ARRIVEE: Etage 3, No. 0, Temps: 132
+ARRIVEE: Etage 3, No. 0, Temps: 132
+ARRIVEE: Etage 2, No. 2, Temps: 132
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 133
+PORTES : Etage 4, No. 0, Temps: 133
+ARRIVEE: Etage 3, No. 0, Temps: 133
+ARRIVEE: Etage 3, No. 0, Temps: 133
+ARRIVEE: Etage 3, No. 0, Temps: 133
+ARRIVEE: Etage 4, No. 0, Temps: 133
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 0, No. 1, Temps: 134
+PORTES : Etage 4, No. 0, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 1, No. 1, Temps: 134
+ARRIVEE: Etage 4, No. 0, Temps: 134
+ARRIVEE: Etage 4, No. 0, Temps: 134
+ARRIVEE: Etage 4, No. 0, Temps: 134
+DEPART : Etage 0, No. 1, Temps: 135
+DEPART : Etage 0, No. 1, Temps: 135
+DEPART : Etage 3, No. 2, Temps: 135
+PORTES : Etage 2, No. 2, Temps: 135
+PORTES : Etage 2, No. 2, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 1, No. 1, Temps: 135
+ARRIVEE: Etage 4, No. 0, Temps: 135
+ARRIVEE: Etage 4, No. 0, Temps: 135
+ARRIVEE: Etage 4, No. 0, Temps: 135
+DEPART : Etage 2, No. 2, Temps: 136
+PORTES : Etage 2, No. 2, Temps: 136
+PORTES : Etage 2, No. 2, Temps: 136
+PORTES : Etage 2, No. 2, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 1, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+ARRIVEE: Etage 2, No. 1, Temps: 136
+DEPART : Etage 0, No. 1, Temps: 137
+PORTES : Etage 2, No. 2, Temps: 137
+PORTES : Etage 2, No. 2, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 1, No. 2, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+ARRIVEE: Etage 2, No. 1, Temps: 137
+DEPART : Etage 3, No. 0, Temps: 138
+PORTES : Etage 4, No. 0, Temps: 138
+ARRIVEE: Etage 1, No. 2, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 2, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+ARRIVEE: Etage 3, No. 1, Temps: 138
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 0, No. 1, Temps: 139
+DEPART : Etage 4, No. 0, Temps: 139
+PORTES : Etage 4, No. 0, Temps: 139
+PORTES : Etage 4, No. 0, Temps: 139
+PORTES : Etage 4, No. 0, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+ARRIVEE: Etage 3, No. 1, Temps: 139
+DEPART : Etage 2, No. 2, Temps: 140
+DEPART : Etage 2, No. 2, Temps: 140
+PORTES : Etage 4, No. 0, Temps: 140
+PORTES : Etage 4, No. 0, Temps: 140
+PORTES : Etage 4, No. 0, Temps: 140
+ARRIVEE: Etage 3, No. 0, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 3, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+ARRIVEE: Etage 4, No. 1, Temps: 140
+DEPART : Etage 2, No. 2, Temps: 141
+DEPART : Etage 2, No. 2, Temps: 141
+DEPART : Etage 2, No. 2, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 3, No. 0, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+ARRIVEE: Etage 4, No. 1, Temps: 141
+DEPART : Etage 2, No. 2, Temps: 142
+DEPART : Etage 2, No. 2, Temps: 142
+PORTES : Etage 1, No. 2, Temps: 142
+ARRIVEE: Etage 0, No. 2, Temps: 142
+ARRIVEE: Etage 0, No. 2, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 4, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+ARRIVEE: Etage 5, No. 1, Temps: 142
+DEPART : Etage 4, No. 0, Temps: 143
+PORTES : Etage 1, No. 2, Temps: 143
+ARRIVEE: Etage 0, No. 2, Temps: 143
+ARRIVEE: Etage 0, No. 2, Temps: 143
+ARRIVEE: Etage 0, No. 2, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+ARRIVEE: Etage 5, No. 1, Temps: 143
+BOUTON : Etage 5, No. 14, Temps: 144
+DEPART : Etage 4, No. 0, Temps: 144
+DEPART : Etage 4, No. 0, Temps: 144
+DEPART : Etage 4, No. 0, Temps: 144
+ARRIVEE: Etage 0, No. 2, Temps: 144
+ARRIVEE: Etage 0, No. 2, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+ARRIVEE: Etage 5, No. 1, Temps: 144
+DEPART : Etage 4, No. 0, Temps: 145
+DEPART : Etage 4, No. 0, Temps: 145
+DEPART : Etage 4, No. 0, Temps: 145
+PORTES : Etage 3, No. 0, Temps: 145
+ARRIVEE: Etage 2, No. 0, Temps: 145
+BOUTON : Etage 0, No. 15, Temps: 146
+PORTES : Etage 3, No. 0, Temps: 146
+DEPART : Etage 3, No. 0, Temps: 146
+ARRIVEE: Etage 4, No. 0, Temps: 146
+ARRIVEE: Etage 4, No. 0, Temps: 146
+ARRIVEE: Etage 4, No. 0, Temps: 146
+DEPART : Etage 1, No. 2, Temps: 147
+PORTES : Etage 0, No. 2, Temps: 147
+PORTES : Etage 0, No. 2, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+PORTES : Etage 5, No. 1, Temps: 147
+ARRIVEE: Etage 4, No. 0, Temps: 147
+ARRIVEE: Etage 4, No. 0, Temps: 147
+ARRIVEE: Etage 4, No. 0, Temps: 147
+DEPART : Etage 0, No. 2, Temps: 147
+DEPART : Etage 0, No. 2, Temps: 148
+PORTES : Etage 0, No. 2, Temps: 148
+PORTES : Etage 0, No. 2, Temps: 148
+PORTES : Etage 0, No. 2, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+PORTES : Etage 5, No. 1, Temps: 148
+DEPART : Etage 2, No. 0, Temps: 148
+DEPART : Etage 2, No. 0, Temps: 148
+ARRIVEE: Etage 3, No. 0, Temps: 148
+PORTES : Etage 0, No. 2, Temps: 149
+PORTES : Etage 0, No. 2, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+PORTES : Etage 5, No. 1, Temps: 149
+ARRIVEE: Etage 1, No. 2, Temps: 149
+ARRIVEE: Etage 1, No. 2, Temps: 149
+DEPART : Etage 3, No. 0, Temps: 150
+PORTES : Etage 2, No. 0, Temps: 150
+ARRIVEE: Etage 1, No. 2, Temps: 150
+ARRIVEE: Etage 3, No. 0, Temps: 150
+ARRIVEE: Etage 3, No. 0, Temps: 150
+DEPART : Etage 2, No. 0, Temps: 151
+PORTES : Etage 4, No. 0, Temps: 151
+PORTES : Etage 4, No. 0, Temps: 151
+PORTES : Etage 4, No. 0, Temps: 151
+ARRIVEE: Etage 2, No. 2, Temps: 151
+ARRIVEE: Etage 2, No. 2, Temps: 151
+DEPART : Etage 0, No. 2, Temps: 152
+DEPART : Etage 0, No. 2, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+DEPART : Etage 5, No. 1, Temps: 152
+PORTES : Etage 4, No. 0, Temps: 152
+PORTES : Etage 4, No. 0, Temps: 152
+PORTES : Etage 4, No. 0, Temps: 152
+ARRIVEE: Etage 2, No. 0, Temps: 152
+ARRIVEE: Etage 2, No. 2, Temps: 152
+DEPART : Etage 0, No. 2, Temps: 153
+DEPART : Etage 0, No. 2, Temps: 153
+DEPART : Etage 0, No. 2, Temps: 153

@@ -1,3 +1,10 @@
+/***********************************************************************************/
+/*  T_LISTE_EVEN.h                                                                 */
+/*                                                                                 */
+/*  Ce module va définir toutes les fonctionnalités du système d'ascenseurs d'un   */
+/*  bâtiment incluant la gestion des boutons d'appel à chaque étage.               */
+/*  Conception : Zhang Rui Chen et Samuel Dero                                     */
+/***********************************************************************************/
 #ifndef __T_LISTE_EVEN_H__
 #define __T_LISTE_EVEN_H__
 

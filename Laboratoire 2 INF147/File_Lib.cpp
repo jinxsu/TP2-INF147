@@ -1,14 +1,26 @@
+/**************************************************************************/
+/*	FILE_LIB.cpp									   				      */
+/*																		  */
+/*	Description: Librairie qui implémente une file circulaire (FIFO) pour */
+/*               les entiers en utilisant l'allocation dynamique.         */
+/*               Supporte les opérations standard de file telles que      */
+/*               l'ajout (ajouter_fin), le retrait (enlever_debut), et    */
+/*               les vérifications de capacité (est_vide, est_pleine).    */
+/*	Conception : Zhang Rui Chen et Samuel Dero							  */
+/**************************************************************************/
+
 #include "File_Lib.h"
 
 t_file init_file(int taille)
 {
-	t_file f = (t_file)malloc(sizeof(file));
-	f->items = (int*)malloc(taille * sizeof(int));
-	f->debut = 0;
-	f->fin = 0;
-	f->total = 0;
-	f->taille_file = taille;
-	return f;
+    // Ensure the definition of 'struct file' is visible here
+    t_file f = (t_file)malloc(sizeof(struct file));
+    f->items = (int*)malloc(taille * sizeof(int));
+    f->debut = 0;
+    f->fin = 0;
+    f->total = 0;
+    f->taille_file = taille;
+    return f;
 }
 
 void detruire_file(t_file* file)

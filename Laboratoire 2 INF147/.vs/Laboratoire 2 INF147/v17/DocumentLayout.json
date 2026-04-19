@@ -1,27 +1,50 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_ascenseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:WinConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_personnes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_liste_even.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_even.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:File_Lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:Affichage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_personnes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_liste_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_ascenseur.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_personnes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_personnes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,73 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_ascenseur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:File_Lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:File_Lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:File_Lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_even.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_ascenseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_ascenseur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_personnes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_personnes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_liste_even.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_liste_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Main_TP2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:Main_TP2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:WinConsole.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:Affichage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:t_even.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:WinConsole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5277399A-4925-4087-A819-6FB73F3B48DC}|Laboratoire 2 INF147.vcxproj|solutionrelative:Affichage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> origin/Sam
     }
   ],
   "DocumentGroupContainers": [
@@ -106,300 +62,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-<<<<<<< HEAD
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-=======
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "t_personnes.cpp",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.cpp",
-              "RelativeDocumentMoniker": "t_personnes.cpp",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.cpp",
-              "RelativeToolTip": "t_personnes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WinConsole.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.cpp",
+              "RelativeDocumentMoniker": "WinConsole.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.cpp",
+              "RelativeToolTip": "WinConsole.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T17:51:05.756Z",
+              "WhenOpened": "2026-04-19T16:00:45.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "t_liste_even.cpp",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.cpp",
-              "RelativeDocumentMoniker": "t_liste_even.cpp",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.cpp",
-              "RelativeToolTip": "t_liste_even.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAF0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T17:50:27.172Z",
+              "WhenOpened": "2026-04-19T14:39:17.797Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "t_liste_even.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h",
-              "RelativeDocumentMoniker": "t_liste_even.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h",
-              "RelativeToolTip": "t_liste_even.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-09T17:50:16.473Z",
-              "EditorCaption": ""
->>>>>>> origin/Sam
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-<<<<<<< HEAD
-              "Title": "t_personnes.c",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.c",
-              "RelativeDocumentMoniker": "t_personnes.c",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.c",
-              "RelativeToolTip": "t_personnes.c",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-12T19:45:43.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "t_ascenseur.c",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.c",
-              "RelativeDocumentMoniker": "t_ascenseur.c",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.c",
-              "RelativeToolTip": "t_ascenseur.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T17:36:34.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "t_ascenseur.h",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h",
-              "RelativeDocumentMoniker": "t_ascenseur.h",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h",
-              "RelativeToolTip": "t_ascenseur.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T18:42:11.609Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\main.c",
-              "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T17:36:51.824Z",
+              "Title": "t_ascenseur.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.cpp",
+              "RelativeDocumentMoniker": "t_ascenseur.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.cpp",
+              "RelativeToolTip": "t_ascenseur.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T14:58:05.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "t_even.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.cpp",
+              "RelativeDocumentMoniker": "t_even.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.cpp",
+              "RelativeToolTip": "t_even.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T15:27:45.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "t_liste_even.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.cpp",
+              "RelativeDocumentMoniker": "t_liste_even.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.cpp",
+              "RelativeToolTip": "t_liste_even.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T15:39:44.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "t_personnes.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.cpp",
+              "RelativeDocumentMoniker": "t_personnes.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.cpp",
+              "RelativeToolTip": "t_personnes.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T15:45:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File_Lib.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.cpp",
+              "RelativeDocumentMoniker": "File_Lib.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.cpp",
+              "RelativeToolTip": "File_Lib.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T14:40:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Affichage.cpp",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.cpp",
+              "RelativeDocumentMoniker": "Affichage.cpp",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.cpp",
+              "RelativeToolTip": "Affichage.cpp",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAANsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T15:52:28.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "t_personnes.h",
               "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h",
               "RelativeDocumentMoniker": "t_personnes.h",
               "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h",
               "RelativeToolTip": "t_personnes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-01T20:56:51.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "t_liste_even.h",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h",
-              "RelativeDocumentMoniker": "t_liste_even.h",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h",
-              "RelativeToolTip": "t_liste_even.h",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T17:32:57.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "File_Lib.c",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.c",
-              "RelativeDocumentMoniker": "File_Lib.c",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.c",
-              "RelativeToolTip": "File_Lib.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T17:35:32.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "File_Lib.h",
-              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h",
-              "RelativeDocumentMoniker": "File_Lib.h",
-              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h",
-              "RelativeToolTip": "File_Lib.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T17:32:40.587Z"
-=======
-              "Title": "t_ascenseur.cpp",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.cpp",
-              "RelativeDocumentMoniker": "t_ascenseur.cpp",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.cpp",
-              "RelativeToolTip": "t_ascenseur.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T17:49:43.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "File_Lib.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h",
-              "RelativeDocumentMoniker": "File_Lib.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h",
-              "RelativeToolTip": "File_Lib.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-09T17:47:19.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "t_personnes.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h",
-              "RelativeDocumentMoniker": "t_personnes.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_personnes.h",
-              "RelativeToolTip": "t_personnes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-01T20:56:51.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "t_ascenseur.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h",
-              "RelativeDocumentMoniker": "t_ascenseur.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h",
-              "RelativeToolTip": "t_ascenseur.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-01T20:56:17.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "t_even.c",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.c",
-              "RelativeDocumentMoniker": "t_even.c",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.c",
-              "RelativeToolTip": "t_even.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-01T21:00:31.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "File_Lib.cpp",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.cpp",
-              "RelativeDocumentMoniker": "File_Lib.cpp",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.cpp",
-              "RelativeToolTip": "File_Lib.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T17:47:39.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Main_TP2.cpp",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Main_TP2.cpp",
-              "RelativeDocumentMoniker": "Main_TP2.cpp",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Main_TP2.cpp",
-              "RelativeToolTip": "Main_TP2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T17:45:15.621Z",
+              "Title": "t_liste_even.h",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h",
+              "RelativeDocumentMoniker": "t_liste_even.h",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_liste_even.h",
+              "RelativeToolTip": "t_liste_even.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-02T17:32:57.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "WinConsole.c",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.c",
-              "RelativeDocumentMoniker": "WinConsole.c",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.c",
-              "RelativeToolTip": "WinConsole.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-01T21:01:00.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Affichage.c",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.c",
-              "RelativeDocumentMoniker": "Affichage.c",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.c",
-              "RelativeToolTip": "Affichage.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-01T21:00:14.116Z",
+              "Title": "t_even.h",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.h",
+              "RelativeDocumentMoniker": "t_even.h",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.h",
+              "RelativeToolTip": "t_even.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T15:50:17.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "t_even.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.h",
-              "RelativeDocumentMoniker": "t_even.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_even.h",
-              "RelativeToolTip": "t_even.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Title": "t_ascenseur.h",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h",
+              "RelativeDocumentMoniker": "t_ascenseur.h",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\t_ascenseur.h",
+              "RelativeToolTip": "t_ascenseur.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-01T20:56:33.053Z"
+              "WhenOpened": "2026-04-02T18:42:11.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Affichage.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.h",
-              "RelativeDocumentMoniker": "Affichage.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\Affichage.h",
-              "RelativeToolTip": "Affichage.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "File_Lib.h",
+              "DocumentMoniker": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h",
+              "RelativeDocumentMoniker": "File_Lib.h",
+              "ToolTip": "D:\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\File_Lib.h",
+              "RelativeToolTip": "File_Lib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-01T20:55:50.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WinConsole.h",
-              "DocumentMoniker": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.h",
-              "RelativeDocumentMoniker": "WinConsole.h",
-              "ToolTip": "C:\\Users\\samtc\\Documents\\GitHub\\TP2-INF147\\Laboratoire 2 INF147\\WinConsole.h",
-              "RelativeToolTip": "WinConsole.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-01T20:57:13.269Z"
->>>>>>> origin/Sam
+              "WhenOpened": "2026-04-02T17:32:40.587Z",
+              "EditorCaption": ""
             }
           ]
         }
