@@ -1,4 +1,5 @@
 #pragma once
+<<<<<<< HEAD
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -115,3 +116,5 @@ static inline int lire_taille_liste(const t_liste liste)
 {
     return liste->taille;
 }
+=======
+>>>>>>> origin/Sam
