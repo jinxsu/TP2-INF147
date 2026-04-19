@@ -1,0 +1,44 @@
+﻿#ifndef __T_LISTE_EVEN_H__
+#define __T_LISTE_EVEN_H__
+
+#include <stdio.h>
+#include <stdlib.h>
+#include "t_even.h"
+
+/* Type pointeur dynamique de memoire vers un noeud */
+typedef struct noeud* t_pointeur;
+
+/* Un noeud de la liste simplement chainee */
+struct noeud {
+    t_even     data;
+    t_pointeur prochain;
+};
+
+/* Structure representant une liste simplement chainee d'evenements */
+struct liste {
+    int        taille;
+    t_pointeur tete;
+    t_pointeur fin;
+};
+
+typedef struct liste* t_liste;
+
+
+//fonctions
+t_liste creer_liste(void);
+
+void vider_liste(t_liste liste);
+
+void detruire_liste(t_liste* pliste);
+
+int inserer_element(t_liste liste, t_type_even even, int eta, int no, int temps);
+
+void lire_premier_element(const t_liste liste, t_even* evenement);
+
+void retirer_premier_element(t_liste liste);
+
+int lire_taille_liste(const t_liste liste);
+
+
+
+#endif

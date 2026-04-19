@@ -127,32 +127,23 @@
     <ClInclude Include="File_Lib.h" />
     <ClInclude Include="t_ascenseur.h" />
     <ClInclude Include="t_even.h" />
-<<<<<<< HEAD
-=======
-    <ClInclude Include="t_liste_even.h" />
->>>>>>> origin/Sam
     <ClInclude Include="t_personnes.h" />
     <ClInclude Include="WinConsole.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Affichage.c" />
-<<<<<<< HEAD
-    <ClCompile Include="File_Lib.c" />
-    <ClCompile Include="main.c" />
-    <ClCompile Include="test_Unitaire.c" />
-    <ClCompile Include="t_ascenseur.c" />
-    <ClCompile Include="t_even.c" />
-    <ClCompile Include="t_liste_even.h" />
-    <ClCompile Include="t_personnes.c" />
-=======
+    <ClCompile Include="Affichage.cpp" />
     <ClCompile Include="File_Lib.cpp" />
-    <ClCompile Include="Main_TP2.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="test_Unitaire.cpp" />
     <ClCompile Include="t_ascenseur.cpp" />
-    <ClCompile Include="t_even.c" />
+    <ClCompile Include="t_even.cpp" />
     <ClCompile Include="t_liste_even.cpp" />
+    <ClCompile Include="t_liste_even.h" />
     <ClCompile Include="t_personnes.cpp" />
->>>>>>> origin/Sam
-    <ClCompile Include="WinConsole.c" />
+    <ClCompile Include="WinConsole.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
